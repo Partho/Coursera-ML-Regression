@@ -5,4 +5,4 @@ Course conducted by Professor Carlos Guestrin of University of Washington.
 
 Following is the certificate received:
 
-![Certificate](https://raw.githubusercontent.com/parthoiiitm/Coursera-ML-Classification/master/Regression_certificate.png)
+![Certificate](https://raw.githubusercontent.com/parthoiiitm/Coursera-ML-Regression/master/Regression_certificate.png)
